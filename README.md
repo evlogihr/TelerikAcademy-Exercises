@@ -1,2 +1,2 @@
-academyExercises
-================
+Telerik Academy Exercises
+=========================
